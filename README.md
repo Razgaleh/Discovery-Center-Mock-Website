@@ -1,4 +1,6 @@
-# Discovery-Center-WD
+# Discovery-Center-Mock-Website
+
+Group Work 
 
 ## Home Page 
 ![homepage](https://github.com/Razgaleh/Discovery-Center-WD/blob/main/homepage.png)
